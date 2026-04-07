@@ -1,0 +1,11 @@
+Age,Gender,Height,Weight,Goal,Category
+18,Male,170,50,Weight Gain,Underweight
+22,Female,160,55,Fit,Normal
+25,Male,175,85,Weight Loss,Overweight
+30,Female,165,95,Weight Loss,Obese
+20,Male,168,60,Fit,Normal
+27,Female,158,45,Weight Gain,Underweight
+35,Male,180,90,Weight Loss,Overweight
+28,Female,170,70,Fit,Normal
+32,Male,172,110,Weight Loss,Obese
+24,Female,162,52,Fit,Normal
